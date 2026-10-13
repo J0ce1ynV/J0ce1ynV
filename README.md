@@ -1,4 +1,4 @@
-<img width="712" height="433" alt="image" src="https://github.com/user-attachments/assets/c4620897-dd72-426c-8885-cc03e3e9f35a" /># Hi there! 👋 I'm Jocelyn Valencia
+Hi there! 👋 I'm Jocelyn Valencia
 
 🎮 **Game Developer | Unity Developer | Programmer | Artist**
 
