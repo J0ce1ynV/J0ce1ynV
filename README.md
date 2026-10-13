@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jocelyn Valencia
+<img width="712" height="433" alt="image" src="https://github.com/user-attachments/assets/c4620897-dd72-426c-8885-cc03e3e9f35a" /># Hi there! 👋 I'm Jocelyn Valencia
 
 🎮 **Game Developer | Unity Developer | Programmer | Artist**
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about developing games, exploring p
     </td>
     <td>
       <a href="https://github.com/J0ce1ynV/LoneHero">
-        <img src="https://placehold.co/600x300/e2e8f0/64748b?text=Add+Thumbnail+Here" width="100%" alt="LoneHero thumbnail">
+        <img src="https://github.com/user-attachments/assets/1dada203-dd72-4c16-a04b-a50c19348b72" width="100%" alt="LoneHero thumbnail">
       </a>
     </td>
   </tr>
