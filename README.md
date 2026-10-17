@@ -62,12 +62,12 @@ Welcome to my GitHub profile! I'm passionate about developing games, exploring p
   <tr>
     <td>
       <a href="https://github.com/J0ce1ynV/SnakeGame">
-        <img src="https://placehold.co/600x300/e2e8f0/64748b?text=Add+Thumbnail+Here" width="100%" alt="SnakeGame thumbnail">
+        <img src="https://github.com/user-attachments/assets/d8358f01-7ba1-450d-9d04-b0f072b5735d" width="100%" alt="SnakeGame thumbnail">
       </a>
     </td>
     <td>
       <a href="https://github.com/J0ce1ynV/BunnyBloom">
-        <img src="https://placehold.co/600x300/e2e8f0/64748b?text=Add+Thumbnail+Here" width="100%" alt="BunnyBloom thumbnail">
+        <img src="https://github.com/user-attachments/assets/134b662a-ecc7-4a4f-81b8-179e3f826330"" width="100%" alt="BunnyBloom thumbnail">
       </a>
     </td>
   </tr>
