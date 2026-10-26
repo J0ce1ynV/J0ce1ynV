@@ -11,17 +11,6 @@ Welcome to my GitHub profile! I'm passionate about developing games, exploring p
 - 🌱 Continuously improving my programming and game development skills.
 - 🚀 Exploring new ideas and turning them into interactive projects.
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jocelyn-valencia-2b2525325?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/J0ce1ynV">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
 ---
 
 ## 📌 My Favorite Repo
@@ -98,4 +87,15 @@ Welcome to my GitHub profile! I'm passionate about developing games, exploring p
 
 ---
 
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jocelyn-valencia-2b2525325?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/J0ce1ynV">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 ⭐ Thanks for visiting my profile!
